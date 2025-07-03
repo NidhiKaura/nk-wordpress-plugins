@@ -1,6 +1,8 @@
 # 🔌 NK Initial Settings – WordPress Plugin
 
-A lightweight and essential plugin to preconfigure your WordPress site with initial settings like permalinks, default cleanup, homepage creation, and menu setup — all in one click — developed by **Nidhi Kaura** at [WebSolutions4You](https://websolutions4you.in).
+A lightweight and essential plugin to preconfigure your WordPress site with initial settings like permalinks, default cleanup, homepage creation, and menu setup — all in one click. 
+
+Developed by **Nidhi Kaura** at [WebSolutions4You](https://websolutions4you.in).
 
 ---
 
