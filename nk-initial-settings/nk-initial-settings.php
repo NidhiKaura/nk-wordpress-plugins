@@ -72,12 +72,12 @@ add_action('admin_menu', function () {
 add_action('admin_enqueue_scripts', function ($hook) {
     if ($hook === 'toplevel_page_popup-form') { // toplevel_page_{menu_slug}
 
-        $style_path  = plugin_dir_path(__FILE__) . 'assets/style.scss';
+        $style_path  = plugin_dir_path(__FILE__) . 'assets/style.css';
         $script_path = plugin_dir_path(__FILE__) . 'assets/script.js';
 
         wp_enqueue_style(
             'popup-form-style',
-            plugin_dir_url(__FILE__) . 'assets/style.scss',
+            plugin_dir_url(__FILE__) . 'assets/style.css',
             [],
             file_exists($style_path) ? filemtime($style_path) : '1.0.0',
             'all' 
