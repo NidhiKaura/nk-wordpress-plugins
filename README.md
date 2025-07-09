@@ -4,11 +4,11 @@ This repository contains a collection of custom WordPress plugins developed by *
 
 
 
-## 📦 Available Plugins
+# 📦 Available Plugins
 
 ## **Initial Settings** – Automate common WordPress setup steps — all in one click.
 
-# 📌 Features
+📌 Features
 
     ✅ Sets pretty permalinks (/%postname%/)
 
@@ -39,4 +39,4 @@ All plugins are licensed under the [GPL v2 or later](./LICENSE).
 
 ---
 
-© 2025 Nidhi Kaura – WebSolutions4You
+© 2025 Nidhi Kaura – [WebSolutions4You](https://websolutions4you.in)

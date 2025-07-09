@@ -35,11 +35,6 @@ Upon clicking the submit button, the pages will be created automatically, and a 
 
 ---
 
-### 🔧 Admin Settings Panel
-
-
----
-
 ## ⚙️ Installation
 
 📥 How to Install
@@ -58,6 +53,6 @@ Plugins is licensed under the [GPL v2 or later](./LICENSE).
 
 ---
 
-© 2025 Nidhi Kaura – WebSolutions4You
+© 2025 Nidhi Kaura – [WebSolutions4You](https://websolutions4you.in)
 
 
