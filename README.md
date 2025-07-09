@@ -6,7 +6,9 @@ This repository contains a collection of custom WordPress plugins developed by *
 
 # 📦 Available Plugins
 
-## **Initial Settings** – Automate common WordPress setup steps — all in one click.
+## **Initial Settings** 
+   
+   Automate common WordPress setup steps — all in one click.
 
 📌 Features
 
