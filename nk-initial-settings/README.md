@@ -31,6 +31,8 @@ Below is the screenshot showcasing what will happen after activation of plugin.
 
 ![Initial Settings page after plugin installation](assets/is-screenshot1.jpg)
 
+Upon clicking the submit button, the pages will be created automatically, and a menu will be generated that includes these pages along with the home page.
+
 ---
 
 ### 🔧 Admin Settings Panel
