@@ -6,7 +6,23 @@ This repository contains a collection of custom WordPress plugins developed by *
 
 ## 📦 Available Plugins
 
-- **Initial Settings** – Automate common WordPress setup steps like permalinks, default cleanup, homepage creation, menu setup and media default sizes — all in one click.
+- **Initial Settings** – Automate common WordPress setup steps — all in one click.
+
+## 📌 Features
+
+    ✅ Sets pretty permalinks (/%postname%/)
+
+    🗑️ Deletes default posts, pages, and Hello Dolly plugin
+
+    🏠 Creates a Home page and sets it as the front page
+
+    🖼️ Configures custom image sizes (thumbnail, medium, large)
+
+    📄 Creates commonly used starter pages like About, Contact, Privacy Policy, etc.
+
+    📋 Automatically creates and assigns a navigation menu
+
+    ⚙️ Ideal for developers, freelancers, and agencies building new WordPress sites
 
 
 📥 How to Install
