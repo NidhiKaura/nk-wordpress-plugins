@@ -27,7 +27,7 @@ This repository contains a collection of custom WordPress plugins developed by *
     ⚙️ Ideal for developers, freelancers, and agencies building new WordPress sites
 
 
-## 📥 How to Install
+# 📥 How to Install
 
 1.  Download the zip of desired plugin from zip-files folder in this repository.
 2.  In your WordPress dashboard, navigate to Plugins → Add New → Upload Plugin.
