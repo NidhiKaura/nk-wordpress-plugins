@@ -32,8 +32,10 @@ Automate common WordPress setup steps like permalinks, default cleanup, homepage
     ⚙️ Ideal for developers, freelancers, and agencies building new WordPress sites
 
 == Installation ==
-1. Upload the plugin files to the `/wp-content/plugins/popup-form` directory.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
+1.  Get the zip file of the plugin.
+2.  In your WordPress dashboard, navigate to Plugins → Add New → Upload Plugin.
+3.  Click Choose File, select the .zip file, and click Install Now.
+4.  Once installed, click Activate Plugin to start using it..
 
 == Changelog ==
 = 1.0.0 =

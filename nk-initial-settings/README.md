@@ -24,6 +24,20 @@ Developed by **Nidhi Kaura** under the brand [WebSolutions4You](https://websolut
     
 ---
 
+
+## 📸 Screenshots
+
+Below is the screenshot showcasing what will happen after activation of plugin.
+
+![Initial Settings page after plugin installation](assets/is-screenshot1.jpg)
+
+---
+
+### 🔧 Admin Settings Panel
+
+
+---
+
 ## ⚙️ Installation
 
 📥 How to Install

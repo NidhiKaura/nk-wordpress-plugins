@@ -113,7 +113,7 @@ function nk_add_home_page():string {
     } 
     return '';
 }
-function   nk_add_page($page_title) : string {
+function  nk_is_add_page($page_title) : string {
    $page_title = trim($page_title);
     $existing_page = get_posts(['post_type' => 'page','post_status' => 'publish', 'title' => $page_title, 'numberposts' => 1]);
     if (empty($existing_page)) {
@@ -132,7 +132,7 @@ function   nk_add_page($page_title) : string {
     }
 }
 
-function nk_create_menu() : string {
+function nk_is_create_menu() : string {
     $menu_name = 'Main Menu';
     $menu_exists = wp_get_nav_menu_object($menu_name);
     if (!$menu_exists) {
