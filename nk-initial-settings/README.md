@@ -2,7 +2,7 @@
 
 A lightweight and essential plugin to preconfigure your WordPress site with initial settings like permalinks, default cleanup, homepage creation, and menu setup — all in one click. 
 
-Developed by **Nidhi Kaura** under the brand [WebSolutions4You](https://websolutions4you.in).
+Developed by **Nidhi Kaura**
 
 ---
 
@@ -53,6 +53,6 @@ Plugins is licensed under the [GPL v2 or later](./LICENSE).
 
 ---
 
-© 2025 Nidhi Kaura – [WebSolutions4You](https://websolutions4you.in)
+© 2025 Nidhi Kaura
 
 

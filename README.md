@@ -1,6 +1,6 @@
 # Nidhi Kaura – WordPress Plugin Collection
 
-This repository contains a collection of custom WordPress plugins developed by **Nidhi Kaura** under the brand [WebSolutions4You](https://websolutions4you.in).
+This repository contains a collection of custom WordPress plugins developed by **Nidhi Kaura**.
 
 
 
@@ -40,4 +40,4 @@ All plugins are licensed under the [GPL v2 or later](./LICENSE).
 
 ---
 
-© 2025 Nidhi Kaura – [WebSolutions4You](https://websolutions4you.in)
+© 2025 Nidhi Kaura
